@@ -4,4 +4,4 @@ name of the read | link to it
 ------------ | -------------
 Growth Mindset | [Growth Mindset](https://muradabuarqoub.github.io/reading-notes/Growth%20Mindset)
 read01 | [read01](https://muradabuarqoub.github.io/reading-notes/read01)
-read me | [README](https://muradabuarqoub.github.io/reading-notes/README)
+read02 | [read02](https://muradabuarqoub.github.io/reading-notes/read02)
