@@ -16,4 +16,4 @@ read02 | [read02](https://muradabuarqoub.github.io/reading-notes/read02)
 
 name of the read | link to it
 ------------ | -------------
-read01 | [read01](/home/murad/reading-notes/102read-01.md)
+read01 | [read01](https://muradabuarqoub.github.io/reading-notes/102read-01)
