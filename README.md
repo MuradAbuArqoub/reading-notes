@@ -10,10 +10,11 @@ Growth Mindset | [Growth Mindset](https://muradabuarqoub.github.io/reading-notes
 read01 | [read01](https://muradabuarqoub.github.io/reading-notes/read01)
 read02 | [read02](https://muradabuarqoub.github.io/reading-notes/read02)
 
-===================================================
+  <hr/>
 
 ### 201
 
 name of the read | link to it
 ------------ | -------------
 read01 | [read01](https://muradabuarqoub.github.io/reading-notes/102read-01)
+read02 | [read02](https://muradabuarqoub.github.io/reading-notes/102read-02)
