@@ -1,7 +1,10 @@
-<<<<<<< HEAD
+
 ## hey my name is **murad abu arqoub** i am 20 years old software engineer an ASAC student and currently taking my code fellows course.
 
+<hr>
+
 ### 101
+
 
 
 name of the read | link to it
@@ -25,3 +28,4 @@ read06 | [read06](102/102read-06.md)
 read07 | [read07](102/102read-07.md)
 read08 | [read08](102/102read-08.md)
 read09 | [read09](102/102read-09.md)
+read11 | [read11](102/102read-11.md)
