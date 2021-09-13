@@ -40,4 +40,5 @@ read14b | [read14b](102/102read-14b.md)
 
 name of the read | link to it
 ------------ | -------------
-read01 | [read01](301/301read-01.md)
+read02 | [read02](301/301read-02.md)
+read03 | [read03](301/301read-03.md)
